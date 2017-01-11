@@ -178,15 +178,6 @@
 		</dependency>
 		<!-- dubbo required jars end -->
 
-		<!-- 多线程测试工具 Begin -->
-		<dependency>
-			<groupId>fakepath</groupId>
-			<artifactId>groboutils-core</artifactId>
-			<version>5</version>
-			<scope>test</scope>
-		</dependency>
-		<!-- 多线程测试工具 End -->
-
 		<dependency>
 			<groupId>org.apache.activemq</groupId>
 			<artifactId>activemq-all</artifactId>
